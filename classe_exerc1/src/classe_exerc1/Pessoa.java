@@ -2,8 +2,7 @@ package classe_exerc1;
 
 public class Pessoa {
 	public static void main(String[] args) {
-		
-	
+				
 		public String nomePessoa;
 		public int idadePessoa;
 		
@@ -17,8 +16,7 @@ public class Pessoa {
 		}
 		
 		System.out.println("Nome: " + nomePessoa);
-		System.out.println("Idade: " + idadePessoa);
+		System.out.println("Idade: " + idadePessoa);	
 		
-	}
+	}	
 }
-
