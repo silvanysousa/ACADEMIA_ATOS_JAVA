@@ -12,10 +12,8 @@ public class SerHumano extends Animal {
 	System.out.println("Informe o tipo");
 	tipo = leitor.nextLine();
 	
-	public String falar(String frase) {
-		String frase = "Nem todos falam";
-		return frase;
+	public static String falar() {
+		return "Nem todos falam";		
 	}
 	
-}
 }
